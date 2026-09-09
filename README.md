@@ -27,5 +27,7 @@ The goal of this project is to transform advertising data into meaningful busine
 
 ## Output
 Facebook
+
+
 <img width="563" height="318" alt="image" src="https://github.com/user-attachments/assets/7531d49c-d90e-4789-9632-31a429d4a3ea" />
 
