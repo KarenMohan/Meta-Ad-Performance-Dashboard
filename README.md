@@ -26,8 +26,12 @@ This project analyzes advertising data to identify patterns and insights across 
 The goal of this project is to transform advertising data into meaningful business insights that can help understand campaign performance and audience behavior.
 
 ## Output
-Facebook
+**Facebook**
 
 
 <img width="563" height="318" alt="image" src="https://github.com/user-attachments/assets/7531d49c-d90e-4789-9632-31a429d4a3ea" />
 
+
+**Instagram**
+
+<img width="560" height="320" alt="image" src="https://github.com/user-attachments/assets/ddd55a40-0fee-4479-8597-6dbd2a6184e8" />
